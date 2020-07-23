@@ -1,0 +1,81 @@
+{
+    "shows": [
+        {
+            "id": "S1",
+            "title": "Avatar: The Last Airbender",
+            "genre": "Action, Adventure, Fantasy, Comedy, Animation",
+            "description": "Avatar: The Legend of Aang mengambil tempat di sebuah dunia fantasi, tempat tinggal manusia, berbagai binatang fantastik, dan roh-roh. Peradaban manusia terbagi-bagi menjadi empat bangsa, Suku Air (Water Tribe), Kerajaan Bumi (Earth Kingdom), Pengembara Udara (Air Nomads), dan Negara Api (Fire Nation).",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_avatar_tla.jpg"
+        },
+        {
+            "id": "S2",
+            "title": "Empire",
+            "genre": "Musical, Drama, Romance",
+            "description": "Serial televisi Empire bercerita tentang Lucious Lyon (Terrence Howard) dan keluarganya yang memiliki perusahaan studio musik bernama Empire Entertainment yang berfokus pada musik hiphop sebagai bidang utamanya. Lucious didiagnosa menderita ALS (Amyotrophic Lateral Sclerosis) dan harus memutuskan siapa dari ketiga anaknya yang akan mengambil alih Empire.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_empire.jpg"
+        },
+        {
+            "id": "S3",
+            "title": "Family Guy",
+            "genre": "Situational Comedy, Adventure, Adult, Animation",
+            "description": "Film ini adalah petualangan keluarga Griffin, yaitu ayah Peter Griffin, seorang pekerja kerah biru yang kikuk namun bermaksud baik; Lois, seorang ibu dan guru piano yang tinggal di rumah yang cantik yang merupakan anggota keluarga Pewterschmidt yang kaya; Meg, putri remaja mereka yang sering digertak yang juga selalu diejek atau diabaikan oleh keluarga; Chris, putra remaja canggung mereka, yang kelebihan berat badan, versi yang lebih muda dari ayahnya; dan Stewie, bayi mereka yang kejam.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_family_guy.jpg"
+        },
+        {
+            "id": "S4",
+            "title": "Game of Thrones",
+            "genre": "Adventure, Drama, Fantasy",
+            "description": "Game of Thrones adalah serial televisi drama fantasi Amerika Serikat yang diciptakan oleh David Benioff dan D. B. Weiss untuk saluran HBO. Berlatar tempat di benua fiktif Westeros dan Essos, Game of Thrones memiliki beberapa plot dan dibintangi oleh sejumlah besar pemeran ansambel serta mengisahkan beberapa alur cerita. Salah satu alur mengisahkan mengenai Takhta Besi di Seven Kingdoms dan rangkaian aliansi dan konflik antar wangsa bangsawan yang saling berlomba untuk mengklaim takhta atau berjuang untuk memerdekakan diri.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_game_of_thrones.jpg"
+        },
+        {
+            "id": "S5",
+            "title": "Grey's Anatomy",
+            "genre": "Drama, Science, Romance",
+            "description": "Greys Anatomy berikut cerita warga bedah, rekan, dan dokter bedah karena mereka mengalami kesulitan karir kompetitif mereka telah memilih. Dalam 11 season, dengan perubahan di rumah dan bekerja, Meredith berjuang untuk menemukan rasa normal.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_grey_anatomy.jpg"
+        },
+        {
+            "id": "S6",
+            "title": "Homeland",
+            "genre": "Thriller, Drama, Political",
+            "description": "Homeland adalah serial televisi Amerika Serikat yang dikembangkan oleh Howard Gordon dan Alex Gansa berdasarkan serial televisi Israel Hatufim (judul bahasa Inggris: Prisoners of War) yang diciptakan oleh Gideon Raff. Seri ini disiarkan di Showtime sejak 2 Oktober 2011 dan diproduksi oleh Fox Television Studios 21 (sebelumnya Fox 21).",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_homeland.jpg"         
+        },
+        {
+            "id": "S7",
+            "title": "Naruto Shippuden",
+            "genre": "Action, Adventure, Fantasy, Animation",
+            "description": "Naruto Shippuden adalah sebuah seri anime yang diadaptasi dari bagian II manga Naruto. Film ini menceritakan tentang usaha ninja jahat dalam membangkitkan Mouryou, roh jahat yang telah dikalahkan 20 tahun yang lalu. Pada bagian ini, pergerakan organisasi Akatsuki semakin terlihat.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_naruto_shipudden.jpg"
+        },
+        {
+            "id": "S8",
+            "title": "NCIS",
+            "genre": "Action, Crime Investigation, Drama",
+            "description": "NCIS (Naval Criminal Investigative Service) adalah serial televisi Amerika Serikat yang di produksi oleh CBS Television Studios. NCIS adalah badan agensi federal yang menginvestigasi kasus-kasus kejahatan kepada US Navy dan US Marine Corps, baik anggota maupun keluarganya (seperti pembunuhan atau penculikan), instalasi militer, persenjataan militer, hingga kontraterorisme dan kontraintelijen. NCIS bersifat agensi sipil independen yang bertanggungjawab langsung kepada Menteri Angkatan Laut Amerika Serikat.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_ncis.jpg"
+        },
+        {
+            "id": "S9",
+            "title": "Stranger Things",
+            "genre": "Sci-Fi, Horror, Supernatural, Drama",
+            "description": "Setiap episode Simpsons berfokus pada kehidupan keluarga Simpsons yang terdiri dari Homer, Marge, Bart, Lisa dan Maggie tinggal di sebuah kota bernama Springfield. Keluarga Simpsons ini disertai lebih dari 300 tokoh-tokoh pendukung yang sendiri juga telah cukup dikenal para penontonnya. Saat ini, The Simpsons ditayangkan oleh FOX di Amerika Serikat, dan merupakan serial animasi terpanjang dalam sejarah Amerika Serikat.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_stranger_things.jpg"
+        },
+        {
+            "id": "S10",
+            "title": "The Simpsons",
+            "genre": "Situational Comedy, Adventure, Adult, Animation",
+            "description": "Setiap episode Simpsons berfokus pada kehidupan keluarga Simpsons yang terdiri dari Homer, Marge, Bart, Lisa dan Maggie tinggal di sebuah kota bernama Springfield. Keluarga Simpsons ini disertai lebih dari 300 tokoh-tokoh pendukung yang sendiri juga telah cukup dikenal para penontonnya. Saat ini, The Simpsons ditayangkan oleh FOX di Amerika Serikat, dan merupakan serial animasi terpanjang dalam sejarah Amerika Serikat.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_the_simpson.jpg"
+        },
+        {
+            "id": "S11",
+            "title": "The Walking Dead",
+            "genre": "Horror, Post Apocalypse, Drama",
+            "description": "The Walking Dead terjadi setelah permulaan sebuah kiamat zombi di seluruh dunia. Zombi-zombi yang biasa disebut walker tersebut, berjalan menuju manusia dan makhluk hidup lainnya untuk memakannya (mereka tertarik pada kebisingan, misalnya suara tembakan, dan aroma yang berbeda, misalnya aroma manusia). Manusia yang mereka gigit atau cakar menjadi terinfeksi dan perlahan berubah menjadi walker juga. Terungkap di awal serial bahwa semua manusia yang hidup membawa patogen ini, sehingga jika mereka meninggal karena sebab lain, mereka juga akan berubah menjadi walker.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/show_walking_dead.jpg"
+        }
+    ]
+}

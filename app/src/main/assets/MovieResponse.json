@@ -1,0 +1,88 @@
+{
+    "movies": [
+        {
+            "id": "M1",
+            "title": "American Sniper",
+            "genre": "Biographical, Drama, Action",
+            "description": "American Sniper mengisahkan sosok Chris Kyle (Bradley Cooper), anggota Navy Seal, tokoh utama film ini, yang lahir dan tumbuh di Texas. Ia sedari kecil digembleng oleh ayahnya cara menembak dan berburu. Keahlian Kyle semakin terasah seiring berjalannya waktu yang membuatnya menjadi koboi rodeo. Suatu hari Kyle tidak sengaja mendapati kekasihnya berselingkuh. Dia merasa frustasi.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/american_sniper.jpg"
+        },
+        {
+            "id": "M2",
+            "title": "Assassin's Creed",
+            "genre": "Action, Thriller",
+            "description": "Callum Lynch adalah pria dengan masa lalu kelam. Ini membuat sosok dewasanya menjelma menjadi sosok agresif yang tak ragu membunuh. Pada akhirnya, satu pembunuhan yang ia lakukan membuat dia dijatuhi hukuman mati. Tapi Lynch tidak mati. Dia justru diseret ke fasilitas Abstergo, di mana ia dihubungkan dengan mesin canggih Animus untuk melihat sepak terjang terakhir Aguilar, Assassin leluhurnya.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/assassin.jpg"
+        },
+        {
+            "id": "M3",
+            "title": "Bhrams: The Boy 2",
+            "genre": "Horror, Mystery, Thriller",
+            "description": "Sebuah keluarga muda memutuskan pindah untuk memulai hidup baru. Namun di rumah baru tersebut, Liza (Katie Holmes) mendapati anaknya, Jude (Christopher Convery) berteman dengan boneka yang sangat mirip dengan manusia yang diberi nama Brahms. Satu per satu teror datang pasca Brahms berada di rumah mereka.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/bhrams_the_boy2.jpg"     
+        },
+        {
+            "id": "M4",
+            "title": "Djoerig Slawe",
+            "genre": "Horror, Drama, Comedy",
+            "description": "Dua jawara desa - Adang dan Asep, bersaing menjadi calon lurah. Meskipun Adang menang, ia malah bangkrut dan ditinggal istri. Sementara Asep justru makin kaya raya. Bahkan mampu melunasi utang Adang. Dari cerita Ujang, Adang tahu bahwa Asep mendapatkan kekayaan melalui dukun Rojan. Adang pun meminta Rojan, cara memenangkan judi togel. Rojan menyanggupi setelah Adang menawarkan jabatan wakil lurah.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/djoerig_salawe.jpg"
+        },
+        {
+            "id": "M5",
+            "title": "Fantasy Island",
+            "genre": "Adventure, Horror",
+            "description": "Diadaptasi dari serial tv horor tahun 1970-an. Fantasy Island akan berkisah tentang sekelompok muda mudi yang berkunjung ke pulau tropis terpencil. Di pulau yang dikelola oleh Roarke (Michael Pena) ini mereka diyakinkan bahwa fantasi para tamu bisa diwujudkan menjadi nyata. Namun perlahan, para tamu mengetahui bahwa fantasi mereka menjadi mimpi buruk saat perlahan pulau tersebut memutarbalikkan keinginan mereka.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/fantasy_island.jpg"
+        },
+        {
+            "id": "M6",
+            "title": "Gretel & Hansel",
+            "genre": "Horror",
+            "description": "Sepeninggal ayah, Gretel dan adiknya yang masih kecil, Hansel, diusir dari rumah oleh ibu mereka yang depresi sama keadaan. Gretel membawa Hansel menyusur hutan yang marak oleh rumor keberadaan penyihir dan entah apa lagi hal mengerikan yang menunggu di dalamnya demi mencari kediaman lain supaya bisa bekerja di sana.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/gretel.jpg"
+        },
+        {
+            "id": "M7",
+            "title": "Hitman",
+            "genre": "Action, Thriller",
+            "description": "Agent 47 adalah hasil dari pelatihan dan pendidikan keras yang disertai dengan tingkat disiplin yang bertugas untuk membunuh. Sebagai penandanya, para murid yang turut pelatihan itu diberi tato barcode di belakang kepalanya yang hanya tertulis angka tanpa nama. Agent 47 menjadi cetakan yang selalu berhasil menjalankan tugasnya.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/hitman.jpg"
+        },
+        {
+            "id": "M8",
+            "title": "M-Spy",
+            "genre": "Action, Comedy, Family",
+            "description": "JJ (Dave Bautista) adalah seorang agen CIA yang sangat hebat. Namun dibalik kesangarannya JJ adalah pribadi yang baik. Hal ini terjadi saat ia harus bekerjasama dengan Sophie (Chloe Coleman), gadis cantik berusia 9 tahun. Keduanya akan menjadi tim dan memecahkan kasus sulit.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/m_spy.jpg"
+        },
+        {
+            "id": "M9",
+            "title": "Malik and Elsa",
+            "genre": "Drama, Romance",
+            "description": "Kadang kedekatan bisa berawal dari sebuah perkenalan yang tidak biasa. Contohnya, seperti Malik (Endi Arfian) dan Elsa (Salshabilla Adriani). Berawal dari permainan tebak-tebakan, di mana Elsa kalah dan dihukum harus mentraktir Malik selama 7 hari berturut-turut, Malik dan Elsa lalu seperti menemukan dunia mereka bersama. 7 hari itu ternyata bisa menyatukan Malik yang kondisi keluarganya bertolak belakang dari Elsa.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/malik_n_elsa.jpg"
+        },
+        {
+            "id": "M10",
+            "title": "Mariposa",
+            "genre": "Drama, Romance",
+            "description": "Mariposa (Kupu-kupu) seperti kamu, aku mengejar tapi kamu menghindar. Begitulah gambaran sosok IQBAL GUANNA bagi NATASHA KAY LOOVY atau ACHA. Acha bertekad ingin mendapatkan hati Iqbal, seorang cowok cakep, pintar dan dikenal berhati dingin.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/mariposa.jpg"
+        },
+        {
+            "id": "M11",
+            "title": "Milea: Suara dari Dilan",
+            "genre": "Drama, Romance",
+            "description": "Tidak ada kisah yang lebih Indah dari kisah cinta di SMA. Sama halnya dengan kisah cinta Dilan dan Milea. Dari yang awalnya benci hingga saling mencintai. Dari yang awalnya manis hingga menjadi rumit. Menjelang reuni akbar, Dilan memutuskan untuk menceritakan kembali masa - masa itu.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/milea_suara_dari_dilan.jpg"
+        },
+        {
+            "id": "M12",
+            "title": "The Invisible Man",
+            "genre": "Sci-Fi, Thriller, Horror",
+            "description": "Cecilia Kass (Elisabeth Moss) tidak pernah percaya bahwa mantan kekasihnya yang tempramental bunuh diri dan meninggalkan warisan kepadanya. Cecilia berusaha membuktikan bahwa ia sedang diburu oleh seseorang yang tidak terlihat oleh siapapun.",
+            "imagePath": "https://andresaftari.student.telkomuniversity.ac.id/files/2020/06/the_invisible_man.jpg"
+        }
+    ]
+}

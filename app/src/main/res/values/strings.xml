@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SubmissionFinal</string>
+
+    <!-- Tabs-->
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Shows</string>
+    <string name="favorite_m">Favorite Movie</string>
+    <string name="favorite_s">Favorite Show</string>
+
+    <!-- Components -->
+    <string name="coverText">Dicoding Submission: Movie Catalogue</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="actionFav">Favorite</string>
+    <string name="message_undo">Do you want to undo your action?</string>
+    <string name="message_ok">Undo</string>
+</resources>
